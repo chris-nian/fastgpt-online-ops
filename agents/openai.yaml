@@ -1,0 +1,4 @@
+interface:
+  display_name: "FastGPT Online Ops"
+  short_description: "登录并 API 操作 SANGFOR Agent Builder 线上环境（应用/知识库/对话调试）"
+  default_prompt: "Use $fastgpt-online-ops to log into the authorized SANGFOR Agent Builder online environment and run read-only or explicitly authorized app/dataset/chat operations via API."
